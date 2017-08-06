@@ -7,6 +7,7 @@ import Footer from './Footer';
 import Content from './Content';
 import Page1 from './Page1';
 
+
 ReactDOM.render(
    <Router history={browserHistory}>
         <Route path="/" component={App} />
